@@ -18,6 +18,12 @@
 
 ![image](https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/49f96a5a-65d5-46d6-93c2-5caa774e3a39)
 
+### BP_Rifle
+![image](https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/33d41862-9767-49a0-8916-3ccc08824cc8)
 
+![image](https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/377bbdcd-e39e-4218-ad56-5e4e68058264)
 
+### BP_Target
+![image](https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/c7943851-c5e2-4991-b89e-81d34ec0969c)
 
+![image](https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/cc6f57ec-f10a-4b40-a686-0c2fa83bb5f6)
