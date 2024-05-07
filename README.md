@@ -27,3 +27,9 @@
 ![image](https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/c7943851-c5e2-4991-b89e-81d34ec0969c)
 
 ![image](https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/cc6f57ec-f10a-4b40-a686-0c2fa83bb5f6)
+
+### GM_TargetGame
+![image](https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/f0de0e1d-d858-428e-8bd5-7d23a9a8a8d1)
+
+![image](https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/2687817f-fdd5-4af4-a1ca-9bd3641a8101)
+
