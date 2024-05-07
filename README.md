@@ -9,7 +9,9 @@
 
 ![BP_Bullet_Event_Graph](https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/08229a77-f588-4022-8c82-ce7dbfc5e0b8)
 
-<img src="https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/4220f70a-87e2-48e7-964a-88cf3b7800b6" width="100%" alt="BP_Bullet"/>
+<img src="https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/4220f70a-87e2-48e7-964a-88cf3b7800b6" width="100%" alt="BP_Bullet_1"/>
+
+<img src="https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/072daab7-2d31-4b9d-ac0e-caca8dafe742" width="100%" alt="BP_Bullet_2"/>
 
 ### BP_FirstPersonCharacter
 ![BP_FirstPersonCharacter_Viewport](https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/496c6bd9-6282-4fbc-8d55-183dc2b557da)
