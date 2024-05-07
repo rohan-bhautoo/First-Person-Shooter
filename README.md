@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400px" src="https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/acfaae90-6e3f-4cce-9c50-262f9d7f191f" alt="logo">
+  <img width="400px" src="https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/12adc4aa-12e0-486e-adab-8ffd9641dedd" alt="logo">
 </p>
 
 <p>
