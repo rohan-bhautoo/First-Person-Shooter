@@ -1,4 +1,12 @@
-# First Person Shooter
+<p align="center">
+  <img width="400px" src="https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/acfaae90-6e3f-4cce-9c50-262f9d7f191f" alt="logo">
+</p>
+
+<p>
+  <img alt="Unreal Engine 5.4" src="https://img.shields.io/badge/Unreal%20Engine-5.4-blue?logo=unrealengine" />
+</p>
+
+First Person Shooter is a simple game made in Unreal Engine 5.4 using contents from the First Person content pack and from custom contents. The goal is to destroy all targets within the time limit. Otherwise the game is lost.
 
 <img src="https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/214d8dc9-4af3-4730-8b50-06cd75bd0bf9" width="100%" alt="First Person Shooter"/>
 
@@ -49,3 +57,15 @@ Light                      |  Dark
 ![WBP_EndScreen_Designer](https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/aace8db2-3f7d-4c9a-82cd-9a4c52076151)
 
 ![WBP_EndScreen_Event_Graph](https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/8cec3f50-2014-4fac-af3d-7ae02188de2c)
+
+## Author
+
+👤 **Rohan Bhautoo**
+
+* Github: [@rohan-bhautoo](https://github.com/rohan-bhautoo)
+* LinkedIn: [@rohan-bhautoo](https://linkedin.com/in/rohan-bhautoo)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
