@@ -5,6 +5,8 @@
 ## Blueprints
 
 ### BP_Bullet
+![ezgif-3-1ec66e9685](https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/4220f70a-87e2-48e7-964a-88cf3b7800b6)
+
 ![BP_Bullet_Viewport](https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/64746e35-8008-45fc-97d5-58691238883a)
 
 ![BP_Bullet_Event_Graph](https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/08229a77-f588-4022-8c82-ce7dbfc5e0b8)
