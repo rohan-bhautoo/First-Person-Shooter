@@ -28,6 +28,9 @@
 
 ![image](https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/cc6f57ec-f10a-4b40-a686-0c2fa83bb5f6)
 
+#### Fracture
+<img src="https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/a86c27d5-5ff4-4438-ad99-a5bc6991ba93" width="100%" alt="BP_Target Fracture"/>
+
 ### GM_TargetGame
 ![image](https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/f0de0e1d-d858-428e-8bd5-7d23a9a8a8d1)
 
