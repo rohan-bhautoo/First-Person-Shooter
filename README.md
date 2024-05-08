@@ -19,6 +19,7 @@ A ***Blueprint Class***, often shortened as ***Blueprint***, is an asset that al
 #### Event Graph
 ![BP_Bullet_Event_Graph](https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/08229a77-f588-4022-8c82-ce7dbfc5e0b8)
 
+##### Sphere Collision
 <img src="https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/ac3022b2-1cfb-479e-82dc-8d0a043bda3f" width="100%" alt="BP_Bullet_Collision"/>
 
 Light                      |  Dark
