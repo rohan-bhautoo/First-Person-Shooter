@@ -11,6 +11,7 @@ First Person Shooter is a simple game made in Unreal Engine 5.4 using contents f
 <img src="https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/214d8dc9-4af3-4730-8b50-06cd75bd0bf9" width="100%" alt="First Person Shooter"/>
 
 ## Blueprints
+A ***Blueprint Class***, often shortened as ***Blueprint***, is an asset that allows content creators to easily add functionality on top of existing gameplay classes. Blueprints are created inside of Unreal Editor visually, instead of by typing code, and saved as assets in a content package. These essentially define a new class or type of Actor which can then be placed into maps as instances that behave like any other type of Actor. 
 
 ### BP_Bullet
 ![BP_Bullet_Viewport](https://github.com/rohan-bhautoo/First-Person-Shooter/assets/47154593/64746e35-8008-45fc-97d5-58691238883a)
